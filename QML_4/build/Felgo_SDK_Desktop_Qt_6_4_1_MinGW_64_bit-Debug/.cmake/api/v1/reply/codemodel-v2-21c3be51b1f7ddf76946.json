@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7ddb8e60f374ccef658d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QML_4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QML_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QML_4-Debug-b9206757ce671fc813a9.json",
+					"name" : "QML_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QML_4_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QML_4_autogen-Debug-b600dfc12c26c47d0d0f.json",
+					"name" : "QML_4_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QML_4_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QML_4_autogen_timestamp_deps-Debug-be5ebcc35e7bd84b5910.json",
+					"name" : "QML_4_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QML_4_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QML_4_qmlimportscan-Debug-32a876dc500464fb6ae6.json",
+					"name" : "QML_4_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Master/Documents/QML_4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

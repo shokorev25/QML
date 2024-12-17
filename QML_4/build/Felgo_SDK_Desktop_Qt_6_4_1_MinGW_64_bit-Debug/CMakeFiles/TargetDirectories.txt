@@ -1,0 +1,10 @@
+C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/QML_4.dir
+C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/QML_4_qmlimportscan.dir
+C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/QML_4_autogen_timestamp_deps.dir
+C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/QML_4_autogen.dir

@@ -1,0 +1,15 @@
+# ninja log v6
+22	40	7561461288436747	CMakeFiles/clean.additional	5930bda871609416
+40	48	7561461288616754	clean	d32b1969b2a6c777
+24	170	7561461290896844	.qt_plugins/Qt6_QmlPlugins_Imports_QML_4.cmake	142de133930ac6a0
+24	170	7561461290896844	C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_QML_4.cmake	142de133930ac6a0
+170	330	7561461291842590	QML_4_autogen/timestamp	6c0b38778fdeb499
+170	330	7561461291842590	QML_4_autogen/mocs_compilation.cpp	6c0b38778fdeb499
+170	330	7561461291842590	C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/QML_4_autogen/timestamp	6c0b38778fdeb499
+170	330	7561461291842590	C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/QML_4_autogen/mocs_compilation.cpp	6c0b38778fdeb499
+337	379	7561461292992945	QML_4_autogen/EWIEGA46WW/qrc_qml.cpp	4a114b496bb355f1
+337	379	7561461292992945	C:/Users/Master/Documents/QML_4/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/QML_4_autogen/EWIEGA46WW/qrc_qml.cpp	4a114b496bb355f1
+379	418	7561461293062960	CMakeFiles/QML_4.dir/QML_4_autogen/mocs_compilation.cpp.obj	2adf30c72510b01b
+381	434	7561461293092969	CMakeFiles/QML_4.dir/QML_4_autogen/EWIEGA46WW/qrc_qml.cpp.obj	bb65b2c199a2204e
+380	2412	7561461293072966	CMakeFiles/QML_4.dir/main.cpp.obj	2b8ecd76d8ebbfbe
+2415	2562	7561461313422736	QML_4.exe	fe6486c44d48e433
