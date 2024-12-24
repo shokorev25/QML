@@ -9,87 +9,85 @@ ApplicationWindow {
     visible: true
     title: "Task_for_Layout"
 
-    Rectangle {
-        id: header
-        anchors.top: parent.top
-        anchors.left: parent.left
-        anchors.right: parent.right
-        height: parent.height * 0.1
-        color: "darkgray"
+    ColumnLayout {
+        anchors.fill: parent
 
-        Text {
-            anchors.centerIn: parent
-            text: "Header"
-            color: "black"
-            font.pointSize: 16
-        }
-    }
+        Rectangle {
+            id: header
+            Layout.fillWidth: true
+            Layout.preferredHeight: parent.height * 0.1
+            color: "darkgray"
 
-    Rectangle {
-        id: content
-        anchors.top: header.bottom
-        anchors.left: parent.left
-        anchors.right: parent.right
-        anchors.bottom: footer.top
-        color: "lightgray"
-
-        Text {
-            anchors.centerIn: parent
-            text: "Content"
-            color: "black"
-            font.pointSize: 16
-        }
-    }
-
-    Rectangle {
-        id: footer
-        anchors.bottom: parent.bottom
-        anchors.left: parent.left
-        anchors.right: parent.right
-        height: parent.height * 0.1
-        color: "darkgray"
-
-        RowLayout {
-            anchors.fill: parent
-            anchors.margins: 10
-            spacing: 10
-
-            Rectangle {
-                Layout.fillWidth: true
-                Layout.preferredHeight: parent.height
-                color: "lightgray"
-
-                Text {
-                    anchors.centerIn: parent
-                    text: "1"
-                    color: "black"
-                    font.pointSize: 16
-                }
+            Text {
+                anchors.centerIn: parent
+                text: "Header"
+                color: "black"
+                font.pointSize: 16
             }
+        }
 
-            Rectangle {
-                Layout.fillWidth: true
-                Layout.preferredHeight: parent.height
-                color: "lightgray"
+        Rectangle {
+            id: content
+            Layout.fillWidth: true
+            Layout.preferredHeight: parent.height * 0.8
+            color: "lightgray"
 
-                Text {
-                    anchors.centerIn: parent
-                    text: "2"
-                    color: "black"
-                    font.pointSize: 16
-                }
+            Text {
+                anchors.centerIn: parent
+                text: "Content"
+                color: "black"
+                font.pointSize: 16
             }
+        }
 
-            Rectangle {
-                Layout.fillWidth: true
-                Layout.preferredHeight: parent.height
-                color: "lightgray"
+        Rectangle {
+            id: footer
+            Layout.fillWidth: true
+            Layout.preferredHeight: parent.height * 0.1
+            color: "darkgray"
 
-                Text {
-                    anchors.centerIn: parent
-                    text: "3"
-                    color: "black"
-                    font.pointSize: 16
+            RowLayout {
+                anchors.fill: parent
+                anchors.margins: 10
+                spacing: 10
+
+                Rectangle {
+                    Layout.fillWidth: true
+                    Layout.preferredHeight: parent.height
+                    color: "lightgray"
+
+                    Text {
+                        anchors.centerIn: parent
+                        text: "1"
+                        color: "black"
+                        font.pointSize: 16
+                    }
+                }
+
+                Rectangle {
+                    Layout.fillWidth: true
+                    Layout.preferredHeight: parent.height
+                    color: "lightgray"
+
+                    Text {
+                        anchors.centerIn: parent
+                        text: "2"
+                        color: "black"
+                        font.pointSize: 16
+                    }
+                }
+
+                Rectangle {
+                    Layout.fillWidth: true
+                    Layout.preferredHeight: parent.height
+                    color: "lightgray"
+
+                    Text {
+                        anchors.centerIn: parent
+                        text: "3"
+                        color: "black"
+                        font.pointSize: 16
+                    }
                 }
             }
         }
